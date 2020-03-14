@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Calculadorita</string>
+    <string name="n1">Número 1</string>
+    <string name="n2">Número 2</string>
+    <string name="sum">Adição</string>
+    <string name="min">Subtração</string>
+    <string name="mul">Multiplicação</string>
+    <string name="div">Divisão</string>
+</resources>

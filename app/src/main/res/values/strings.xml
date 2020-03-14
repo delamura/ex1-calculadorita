@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Lil Calculita</string>
+    <string name="n1">Number 1</string>
+    <string name="n2">Number 2</string>
+    <string name="sum">Addition</string>
+    <string name="min">Subtraction</string>
+    <string name="mul">Multiplication</string>
+    <string name="div">Division</string>
+</resources>
